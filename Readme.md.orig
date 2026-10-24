@@ -1,0 +1,8 @@
+Hello
+this is the new file.
+<<<<<<< HEAD
+A README is a text file that introduces and explains a project. It contains information that is commonly required to understand what the project is about.
+=======
+which consist of 
+A README File is an introductory document that explains a project's purpose, installation steps, and usage guidelines. It is usually placed in the root directory of a software repository and formatted in Markdown (README.md)
+>>>>>>> refs/remotes/origin/main
